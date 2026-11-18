@@ -47,3 +47,28 @@ Se riscontrate problemi durante le esercitazioni, segnalateli aprendo una [Issue
 > Siamo lieti di aiutarvi con qualsiasi aspetto relativo alle **esercitazioni didattiche** di questo repository.  
 > Per bug dei prodotti o problemi con strumenti come **GitHub, Azure DevOps, Azure** o altri servizi Microsoft, contattate direttamente il supporto Microsoft:  
 > 👉 [https://support.microsoft.com/it-it/](https://support.microsoft.com/it-it/) — selezionate il prodotto interessato e aprite una richiesta di supporto.
+
+---
+
+## Traduction française
+
+### Premiers pas avec DevOps, DevSecOps, SRE et l'ingénierie de plateforme
+
+Bienvenue ! Ce dépôt contient toutes les instructions et les ressources nécessaires pour réaliser les exercices pratiques des **parcours d'apprentissage DevOps** sur [Microsoft Learn](https://learn.microsoft.com/fr-fr/).
+
+Que vous découvriez les fondamentaux de DevOps ou que vous approfondissiez les pratiques d'ingénierie de fiabilité des sites (SRE) et d'ingénierie de plateforme, ce dépôt vous accompagne dans un apprentissage guidé et pratique.
+
+### Ce que vous trouverez ici
+
+- Des instructions détaillées pour les exercices
+- Les fichiers de configuration et les ressources nécessaires
+- Des implémentations de référence et des exemples de code
+
+### Signaler un problème
+
+Si vous rencontrez des problèmes pendant les exercices, signalez-les en ouvrant une [Issue](../../issues) dans ce dépôt.
+
+> ⚠️ **Remarque :**  
+> Nous serons ravis de vous aider pour toute question liée aux **exercices d'apprentissage** de ce dépôt.  
+> Pour les bogues des produits ou les problèmes liés à des outils comme **GitHub, Azure DevOps, Azure** ou à d'autres services Microsoft, contactez directement le support Microsoft :  
+> 👉 [https://support.microsoft.com/fr-fr/](https://support.microsoft.com/fr-fr/) — sélectionnez le produit concerné et ouvrez une demande de support.
