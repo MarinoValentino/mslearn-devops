@@ -37,7 +37,7 @@ Che stiate esplorando i fondamenti di DevOps o approfondendo le pratiche di Site
 
 - Istruzioni dettagliate per le esercitazioni
 - File di configurazione e risorse necessari
-- Implementazioni di riferimento e codice di esempio
+- Implementazioni di riferimento e **codici** di esempio
 
 ### Segnalazione di problemi
 
